@@ -1,2 +1,2 @@
 # autoupdate
-This is autoupdate meta data for my payday 2 lua mods.
+This is autoupdate meta data for my PAYDAY2 lua mods.
