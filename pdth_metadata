@@ -1,0 +1,8 @@
+{
+    "pdth_cpu_affinity": {
+        "author": "Shane",
+        "display_name": "PDTH CPU Affinity",
+        "version": "1.0",
+        "download_url": "https://github.com/Shane1230/PDTH-CPU-Affinity/archive/refs/heads/master.zip"
+    }
+}
