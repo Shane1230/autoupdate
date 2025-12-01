@@ -1,7 +1,7 @@
 [
     {
         "ident": "stealth_bug_fix",
-        "version": "0.51",
+        "version": "0.52",
         "download_url": "https://github.com/Shane1230/Stealth-Bug-Fix/archive/refs/heads/master.zip",
         "patchnotes_url": "https://github.com/Shane1230/Stealth-Bug-Fix"
     }
